@@ -26,7 +26,7 @@ class Iptime:
 
   def add_member(self, member_name):
     self.members.append(member_name)
-    print(f"{member_name}는 동아리에 가입했습니다..")
+    print(f"{member_name}는 토평고등학교 프로그래밍 동아리에 가입했습니다..")
 
   def alumni(self, member_name):
     if member_name in self.members:
