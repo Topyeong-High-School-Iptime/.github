@@ -1,19 +1,19 @@
 # 토평고등학교 프로그래밍 동아리 아이피타임
 
-> 동아리 소개
+> 동아리 소개  
 작성 필요
 
 
 
-> 동아리 특징  
+> 동아리 특징    
 작성 필요
 
 
 
-> 동아리 주요 활동
+> 동아리 주요 활동  
 작성 필요
 
-
+- 작성할때 참고하면 좋은 링크(https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ```python
 class Iptime:
@@ -41,3 +41,5 @@ class Iptime:
     print(f"동아리 인원수: {len(self.members)}")
     print(f"동아리 활동내역: {self.activities}")
 ``` 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTopyeong-High-School-Iptime&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
