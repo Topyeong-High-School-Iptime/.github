@@ -14,6 +14,7 @@
 작성 필요
 
 - 작성할때 참고하면 좋은 링크(https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- 자유롭게 수정해줘~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ```python
 class Iptime:
